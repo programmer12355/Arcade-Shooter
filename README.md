@@ -11,4 +11,6 @@ You can also download the game at https://rainbow-octopus.itch.io/arcade-shooote
 
 -----Instalation method-----
 
+[👉 Click here to install the ZIP file 👈](https://github.com/programmer12355/Arcade-Shooter/raw/refs/heads/main/Arcade%20shooter.zip)
+
 Install the ZIP file, extract it, and run the file named “Arcade Shooter”.
