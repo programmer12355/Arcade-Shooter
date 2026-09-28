@@ -9,4 +9,3 @@ Want to support me? You can contribute to my Ko-Fi account: ko-fi.com/programmer
 
 You can also download the game at https://rainbow-octopus.itch.io/arcade-shoooter
 
-Translated with DeepL.com (free version)
