@@ -9,6 +9,8 @@ Want to support me? You can contribute to my Ko-Fi account: https://ko-fi.com/pr
 
 You can also download the game at https://rainbow-octopus.itch.io/arcade-shoooter
 
+Youtube channel: https://www.youtube.com/channel/UCtCHvjNRi5zV3r8nafGvyiA
+
 -----Instalation method-----
 
 [👉 Click here to install the ZIP file 👈](https://github.com/programmer12355/Arcade-Shooter/raw/refs/heads/main/Arcade%20shooter.zip)
